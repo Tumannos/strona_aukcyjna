@@ -24,5 +24,3 @@ LOGIN: jjjk
 HASŁO: klk
 LOGIN: Tomaż
 HASŁO: gej
-LOGIN: qqq
-HASŁO: qwe
