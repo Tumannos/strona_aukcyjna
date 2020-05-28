@@ -7,5 +7,7 @@ public class Start {
         test1.creatNewAccount();
     SignIn test2 = new SignIn();
         test2.signIn();
+    UserList test3 = new UserList();
+        test3.showUserList();
     }
 }

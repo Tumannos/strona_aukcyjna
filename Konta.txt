@@ -24,3 +24,7 @@ LOGIN: jjjk
 HASŁO: klk
 LOGIN: Tomaż
 HASŁO: gej
+LOGIN: eeeee
+HASŁO: jd
+LOGIN: Rumek991
+HASŁO: fbd
